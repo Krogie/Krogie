@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krogie
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning film production
--  Curruent projects: @mine4blood and @pvpsucht
+-  Curruent projects: @flixtake, @platinv, @mine4blood, @pvpsucht and a videogame with no name yet.
 -  Java:
 Woring with: https://github.com/google/styleguide/blob/gh-pages/intellij-java-google-style.xml
 <!---
